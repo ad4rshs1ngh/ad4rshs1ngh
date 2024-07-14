@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Adarsh Singh
 - 👀 I’m interested in practical applications of Gen AI, ML, and Data Science
-- 🌱 I’m currently learning Advanced RAG, Image-based models and NLP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Engineering Lead for AI and Analytics at Indeed
+- 💞️ I’m looking to meet people working in the area of ML, NLP and Large Language Models with an interest in efficiently and economically training these models for domain specific data to build innovative AI applicaitons.
+- 📫 Connect with me  on LinkedIn (@adarshsingh511)
 
 <!---
 ad4rshs1ngh/ad4rshs1ngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
